@@ -1,0 +1,4 @@
+# rkp_only settings
+on fs && property:ro.vendor.mtk.is_rkp_only=1
+    setprop remote_provisioning.tee.rkp_only 1
+    setprop remote_provisioning.strongbox.rkp_only 1
