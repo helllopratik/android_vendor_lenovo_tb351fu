@@ -12,15 +12,8 @@ PRODUCT_PACKAGES += \
     TetheringResOverlay \
     LTHD \
     NonFrameworkLbs \
-    AndroidDeveloperVerifier \
-    CrossDeviceServices \
-    FamilyLinkParentalControls \
-    GWP \
     LFHTianjiaoTablet \
-    PersonalSafety \
-    SearchSelector \
     SettingsIntelligence \
-    Turbo \
     ZuiGameHelper \
     ATMWifiMeta \
     BatteryWarning \

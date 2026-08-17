@@ -3431,14 +3431,7 @@ PRODUCT_PACKAGES += \
     # DebugLoggerUI \
     BuildManifestSystemExt \
     ZuiGameHelper \
-    Turbo \
-    SearchSelector \
     SettingsIntelligence \
-    CrossDeviceServices \
-    GWP \
-    AndroidDeveloperVerifier \
-    FamilyLinkParentalControls \
-    PersonalSafety \
     LFHTianjiaoTablet \
     NonFrameworkLbs \
     LTHD \
