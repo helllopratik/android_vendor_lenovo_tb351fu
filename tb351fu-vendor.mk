@@ -3517,7 +3517,6 @@ PRODUCT_PACKAGES += \
     SwitchAccess \
     Videos \
     YTMSetupWizard \
-    YTMusic \
     talkback \
     AndroidDeveloperVerifier \
     AndroidSystemIntelligence \
@@ -3525,7 +3524,6 @@ PRODUCT_PACKAGES += \
     CrossDeviceServices \
     EntertainmentSpace \
     FamilyLinkParentalControls \
-    GWP \
     LFHTianjiaoTablet \
     Messages \
     MotoReadyFor \
@@ -3533,7 +3531,6 @@ PRODUCT_PACKAGES += \
     PrivateComputeServices \
     SearchSelector \
     SettingsIntelligence \
-    Turbo \
     Wellbeing \
     ZuiGameHelper \
     ATMWifiMeta \
